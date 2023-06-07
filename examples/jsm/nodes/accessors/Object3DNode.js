@@ -1,4 +1,4 @@
-import { Vector3 } from 'three';
+import { Vector3 } from 'three-139-optimized';
 import Node from '../core/Node.js';
 import UniformNode from '../core/UniformNode.js';
 import { NodeUpdateType } from '../core/constants.js';

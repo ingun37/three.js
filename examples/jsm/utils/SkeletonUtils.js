@@ -9,7 +9,7 @@ import {
 	Vector2,
 	Vector3,
 	VectorKeyframeTrack
-} from 'three';
+} from 'three-139-optimized';
 
 
 function retarget( target, source, options = {} ) {

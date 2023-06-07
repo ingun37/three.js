@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from 'three-139-optimized';
 
 function createText( message, height ) {
 

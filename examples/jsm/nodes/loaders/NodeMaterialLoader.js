@@ -1,4 +1,4 @@
-import { MaterialLoader } from 'three';
+import { MaterialLoader } from 'three-139-optimized';
 
 class NodeMaterialLoader extends MaterialLoader {
 

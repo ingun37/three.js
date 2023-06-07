@@ -7,7 +7,7 @@ import {
 	Mesh,
 	MeshStandardMaterial,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 
 function TubePainter() {
 

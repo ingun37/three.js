@@ -4,7 +4,7 @@ import {
 	Quaternion,
 	Raycaster,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 
 class RollerCoasterGeometry extends BufferGeometry {
 

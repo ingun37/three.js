@@ -1,4 +1,4 @@
-import { Vector3, Matrix4 } from 'three';
+import { Vector3, Matrix4 } from 'three-139-optimized';
 
 const inverseProjectionMatrix = new Matrix4();
 

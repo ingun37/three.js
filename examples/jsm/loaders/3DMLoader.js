@@ -22,7 +22,7 @@ import {
 	LinearFilter,
 	ClampToEdgeWrapping,
 	TextureLoader
-} from 'three';
+} from 'three-139-optimized';
 
 const _taskCache = new WeakMap();
 

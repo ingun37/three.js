@@ -17,7 +17,7 @@ import {
 	UniformsLib,
 	UniformsUtils,
 	Vector2
-} from 'three';
+} from 'three-139-optimized';
 
 
 UniformsLib.line = {

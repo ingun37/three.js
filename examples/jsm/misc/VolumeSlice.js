@@ -6,7 +6,7 @@ import {
 	MeshBasicMaterial,
 	PlaneGeometry,
 	Texture
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * This class has been made to hold a slice of a volume data

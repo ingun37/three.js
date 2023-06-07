@@ -9,7 +9,7 @@ import {
 	ShaderChunk,
 	ShaderLib,
 	UniformsUtils,
-} from 'three';
+} from 'three-139-optimized';
 
 class PackedPhongMaterial extends MeshPhongMaterial {
 

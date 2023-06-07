@@ -9,7 +9,7 @@ import {
 	ShaderMaterial,
 	StereoCamera,
 	WebGLRenderTarget
-} from 'three';
+} from 'three-139-optimized';
 
 class ParallaxBarrierEffect {
 

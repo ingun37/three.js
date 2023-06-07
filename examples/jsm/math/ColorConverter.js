@@ -1,6 +1,6 @@
 import {
 	MathUtils
-} from 'three';
+} from 'three-139-optimized';
 
 const _hsl = {};
 

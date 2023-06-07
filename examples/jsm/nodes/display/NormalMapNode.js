@@ -2,7 +2,7 @@ import TempNode from '../core/TempNode.js';
 import ModelNode from '../accessors/ModelNode.js';
 import { ShaderNode, positionView, normalView, uv, join, cond, add, sub, mul, dFdx, dFdy, cross, max, dot, normalize, inversesqrt, equal } from '../ShaderNode.js';
 
-import { TangentSpaceNormalMap, ObjectSpaceNormalMap } from 'three';
+import { TangentSpaceNormalMap, ObjectSpaceNormalMap } from 'three-139-optimized';
 
 // Normal Mapping Without Precomputed Tangents
 // http://www.thetenthplanet.de/archives/1180

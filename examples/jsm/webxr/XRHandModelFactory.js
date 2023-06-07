@@ -1,6 +1,6 @@
 import {
 	Object3D
-} from 'three';
+} from 'three-139-optimized';
 
 import {
 	XRHandPrimitiveModel

@@ -2,7 +2,7 @@ import {
 	Matrix3,
 	Matrix4,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 import { VolumeSlice } from '../misc/VolumeSlice.js';
 
 /**

@@ -1,5 +1,5 @@
 import * as Nodes from '../Nodes.js';
-import { Loader } from 'three';
+import { Loader } from 'three-139-optimized';
 
 class NodeLoader extends Loader {
 

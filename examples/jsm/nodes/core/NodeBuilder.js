@@ -6,13 +6,13 @@ import NodeCode from './NodeCode.js';
 import NodeKeywords from './NodeKeywords.js';
 import { NodeUpdateType } from './constants.js';
 
-import { REVISION, LinearEncoding } from 'three';
+import { REVISION, LinearEncoding } from 'three-139-optimized';
 
 export const shaderStages = [ 'fragment', 'vertex' ];
 export const vector = [ 'x', 'y', 'z', 'w' ];
 
 const toFloat = ( value ) => {
-	
+
 	value = Number( value );
 
 	return value + ( value % 1 ? '' : '.0' );

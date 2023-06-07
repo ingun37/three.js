@@ -9,7 +9,7 @@ import {
 	RGBAFormat,
 	UVMapping,
 	UniformsLib
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * Uniforms library for RectAreaLight shared webgl shaders

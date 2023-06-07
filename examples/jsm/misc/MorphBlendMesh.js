@@ -1,7 +1,7 @@
 import {
 	MathUtils,
 	Mesh
-} from 'three';
+} from 'three-139-optimized';
 
 class MorphBlendMesh extends Mesh {
 

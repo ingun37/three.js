@@ -1,5 +1,5 @@
 import NodeMaterial from './NodeMaterial.js';
-import { PointsMaterial } from 'three';
+import { PointsMaterial } from 'three-139-optimized';
 
 const defaultValues = new PointsMaterial();
 

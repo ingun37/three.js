@@ -1,6 +1,6 @@
 import {
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 
 const _v1 = new Vector3();
 const _v2 = new Vector3();

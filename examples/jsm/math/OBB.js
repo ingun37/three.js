@@ -5,7 +5,7 @@ import {
 	Matrix3,
 	Ray,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 
 // module scope helper variables
 

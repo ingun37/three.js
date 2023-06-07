@@ -9,7 +9,7 @@ import {
 	TriangleStripDrawMode,
 	TrianglesDrawMode,
 	Vector3,
-} from 'three';
+} from 'three-139-optimized';
 
 
 function computeTangents( geometry, MikkTSpace, negateSign = true ) {

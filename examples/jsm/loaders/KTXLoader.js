@@ -1,6 +1,6 @@
 import {
 	CompressedTextureLoader
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * for description see https://www.khronos.org/opengles/sdk/tools/KTX/

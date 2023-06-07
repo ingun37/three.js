@@ -1,7 +1,7 @@
 {
   "name": "three-139-optimized",
   "types": "types/three/index.d.ts",
-  "version": "0.139.3",
+  "version": "0.139.5",
   "description": "JavaScript 3D library",
   "type": "module",
   "main": "./build/three.js",

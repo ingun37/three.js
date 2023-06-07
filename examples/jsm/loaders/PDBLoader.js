@@ -3,7 +3,7 @@ import {
 	FileLoader,
 	Float32BufferAttribute,
 	Loader
-} from 'three';
+} from 'three-139-optimized';
 
 class PDBLoader extends Loader {
 

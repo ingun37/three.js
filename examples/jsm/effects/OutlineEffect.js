@@ -4,7 +4,7 @@ import {
 	ShaderMaterial,
 	UniformsLib,
 	UniformsUtils
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * Reference: https://en.wikipedia.org/wiki/Cel_shading

@@ -9,7 +9,7 @@ import {
 	MeshStandardMaterial,
 	NearestFilter,
 	RedFormat
-} from 'three';
+} from 'three-139-optimized';
 
 class VOXLoader extends Loader {
 

@@ -2,7 +2,7 @@ import {
 	Object3D,
 	Quaternion,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 
 const _translationObject = new Vector3();
 const _quaternionObject = new Quaternion();

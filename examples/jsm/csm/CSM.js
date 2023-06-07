@@ -6,7 +6,7 @@ import {
 	ShaderChunk,
 	Matrix4,
 	Box3
-} from 'three';
+} from 'three-139-optimized';
 import { CSMFrustum } from './CSMFrustum.js';
 import { CSMShader } from './CSMShader.js';
 

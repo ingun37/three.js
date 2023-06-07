@@ -1,7 +1,7 @@
 import {
 	Color,
 	MathUtils
-} from 'three';
+} from 'three-139-optimized';
 
 class Lut {
 
