@@ -1,4 +1,4 @@
-import { WebGLRenderTarget } from 'three';
+import { WebGLRenderTarget } from 'three-139-optimized';
 
 class WebGPUTextureRenderer {
 

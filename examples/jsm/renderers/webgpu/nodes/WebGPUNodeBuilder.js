@@ -1,4 +1,4 @@
-import { LinearEncoding } from 'three';
+import { LinearEncoding } from 'three-139-optimized';
 
 import WebGPUNodeUniformsGroup from './WebGPUNodeUniformsGroup.js';
 import {

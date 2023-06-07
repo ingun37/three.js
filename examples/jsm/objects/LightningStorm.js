@@ -3,7 +3,7 @@ import {
 	Mesh,
 	MeshBasicMaterial,
 	Object3D
-} from 'three';
+} from 'three-139-optimized';
 import { LightningStrike } from '../geometries/LightningStrike.js';
 
 /**

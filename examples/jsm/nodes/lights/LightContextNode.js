@@ -3,7 +3,7 @@ import VarNode from '../core/VarNode.js';
 import UniformNode from '../core/UniformNode.js';
 import OperatorNode from '../math/OperatorNode.js';
 import { PhysicalLightingModel } from '../functions/BSDFs.js';
-import { Vector3 } from 'three';
+import { Vector3 } from 'three-139-optimized';
 
 class LightContextNode extends ContextNode {
 
