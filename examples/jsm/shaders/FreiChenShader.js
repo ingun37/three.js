@@ -1,6 +1,6 @@
 import {
 	Vector2
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * Edge Detection Shader using Frei-Chen filter

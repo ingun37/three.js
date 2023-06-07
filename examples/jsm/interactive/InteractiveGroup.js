@@ -3,7 +3,7 @@ import {
 	Matrix4,
 	Raycaster,
 	Vector2
-} from 'three';
+} from 'three-139-optimized';
 
 const _pointer = new Vector2();
 const _event = { type: '', data: _pointer };

@@ -5,7 +5,7 @@ import {
 	Loader,
 	LoaderUtils,
 	Color
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * Description: A THREE loader for PLY ASCII files (known as the Polygon

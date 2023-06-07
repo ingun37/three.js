@@ -5,7 +5,7 @@ import {
 	NumberKeyframeTrack,
 	Vector3,
 	VectorKeyframeTrack
-} from 'three';
+} from 'three-139-optimized';
 
 class AnimationClipCreator {
 

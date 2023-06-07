@@ -1,7 +1,7 @@
 import {
 	Vector2,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * Shaders to render 3D volumes using raycasting.

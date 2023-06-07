@@ -5,7 +5,7 @@ import {
 	MeshBasicMaterial,
 	PlaneGeometry,
 	sRGBEncoding
-} from 'three';
+} from 'three-139-optimized';
 
 class HTMLMesh extends Mesh {
 

@@ -10,7 +10,7 @@ import {
 	UniformsUtils,
 	Vector2,
 	Vector4
-} from 'three';
+} from 'three-139-optimized';
 import { Reflector } from '../objects/Reflector.js';
 import { Refractor } from '../objects/Refractor.js';
 

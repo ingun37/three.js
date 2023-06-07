@@ -2,7 +2,7 @@ import {
 	FileLoader,
 	Loader,
 	ShapePath
-} from 'three';
+} from 'three-139-optimized';
 
 class FontLoader extends Loader {
 

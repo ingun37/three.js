@@ -1,7 +1,7 @@
 import { WebGLNodeBuilder } from './WebGLNodeBuilder.js';
 import NodeFrame from 'three-nodes/core/NodeFrame.js';
 
-import { Material } from 'three';
+import { Material } from 'three-139-optimized';
 
 const builders = new WeakMap();
 export const nodeFrame = new NodeFrame();
@@ -37,7 +37,7 @@ Material.prototype.onBeforeRender = function ( renderer, scene, camera, geometry
 				nodeFrame.updateNode( node );
 
 			}
-			
+
 		}
 
 	}

@@ -5,7 +5,7 @@ import {
 	CubeTexture,
 	HalfFloatType,
 	DataUtils
-} from 'three';
+} from 'three-139-optimized';
 
 class RGBMLoader extends DataTextureLoader {
 

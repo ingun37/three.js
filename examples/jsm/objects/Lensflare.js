@@ -13,7 +13,7 @@ import {
 	Vector3,
 	Vector4,
 	RGBAFormat
-} from 'three';
+} from 'three-139-optimized';
 
 class Lensflare extends Mesh {
 

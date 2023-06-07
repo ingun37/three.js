@@ -10,7 +10,7 @@ import {
 	TextureLoader,
 	Vector2,
 	sRGBEncoding
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * Loads a Wavefront .mtl file specifying materials

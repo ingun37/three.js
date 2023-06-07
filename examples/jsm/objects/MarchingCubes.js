@@ -4,7 +4,7 @@ import {
 	Color,
 	DynamicDrawUsage,
 	Mesh
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * Port of http://webglsamples.org/blob/blob.html

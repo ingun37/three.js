@@ -4,7 +4,7 @@ import {
 	Quaternion,
 	Vector2,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 
 const _changeEvent = { type: 'change' };
 const _startEvent = { type: 'start' };

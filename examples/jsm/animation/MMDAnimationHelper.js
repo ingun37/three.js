@@ -3,7 +3,7 @@ import {
 	Object3D,
 	Quaternion,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 import { CCDIKSolver } from '../animation/CCDIKSolver.js';
 import { MMDPhysics } from '../animation/MMDPhysics.js';
 

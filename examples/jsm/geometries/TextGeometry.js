@@ -17,7 +17,7 @@
 
 import {
 	ExtrudeGeometry
-} from 'three';
+} from 'three-139-optimized';
 
 class TextGeometry extends ExtrudeGeometry {
 

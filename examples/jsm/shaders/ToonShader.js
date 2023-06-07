@@ -1,7 +1,7 @@
 import {
 	Color,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * Currently contains:

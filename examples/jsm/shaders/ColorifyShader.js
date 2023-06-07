@@ -1,6 +1,6 @@
 import {
 	Color
-} from 'three';
+} from 'three-139-optimized';
 
 /**
  * Colorify shader

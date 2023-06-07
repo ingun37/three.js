@@ -1,7 +1,7 @@
 import {
 	Matrix4,
 	Vector2
-} from 'three';
+} from 'three-139-optimized';
 /**
  * References:
  * https://lettier.github.io/3d-game-shaders-for-beginners/screen-space-reflection.html

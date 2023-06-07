@@ -18,7 +18,7 @@ import {
 	SphereGeometry,
 	TorusGeometry,
 	Vector3
-} from 'three';
+} from 'three-139-optimized';
 
 const _raycaster = new Raycaster();
 

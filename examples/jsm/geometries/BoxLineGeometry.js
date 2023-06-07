@@ -1,7 +1,7 @@
 import {
 	BufferGeometry,
 	Float32BufferAttribute
-} from 'three';
+} from 'three-139-optimized';
 
 class BoxLineGeometry extends BufferGeometry {
 

@@ -3,7 +3,7 @@ import {
 	Group,
 	Loader,
 	LoadingManager
-} from 'three';
+} from 'three-139-optimized';
 import { ColladaLoader } from '../loaders/ColladaLoader.js';
 import * as fflate from '../libs/fflate.module.js';
 
